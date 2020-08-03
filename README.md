@@ -28,4 +28,7 @@ Trabajar con varios archivos
 
 **Ctrl-w**: cambia el cursor entre ventanas.
 
+**Ctrl-w + R**: rota las ventanas, es decir, la que está a la derecha pasa a la izquierda.
+
+
 
