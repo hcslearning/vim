@@ -18,12 +18,14 @@ Puede quitar la indentación con la tecla **<**
 Trabajar con varios archivos
 ------------------------------
 
-**:sp[lit] file** - divide la ventana horizontalmente
-**:vsp[lit] file** - divide la ventana verticalmente
+**:sp[lit] file** - divide la ventana horizontalmente.
 
-**Ctrl-ws**: divide la ventana horizontalmente
-**Ctrl-wv**: divide la ventana verticalmente
+**:vsp[lit] file** - divide la ventana verticalmente.
 
-**Ctrl-w**: cambia el cursor entre ventanas
+**Ctrl-ws**: divide la ventana horizontalmente.
+
+**Ctrl-wv**: divide la ventana verticalmente.
+
+**Ctrl-w**: cambia el cursor entre ventanas.
 
 
