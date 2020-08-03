@@ -15,3 +15,15 @@ Quitar Indentación
 Puede quitar la indentación con la tecla **<** 
 
 
+Trabajar con varios archivos
+------------------------------
+
+**:sp[lit] file** - divide la ventana horizontalmente
+**:vsp[lit] file** - divide la ventana verticalmente
+
+**Ctrl-ws**: divide la ventana horizontalmente
+**Ctrl-wv**: divide la ventana verticalmente
+
+**Ctrl-w**: cambia el cursor entre ventanas
+
+
