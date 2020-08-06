@@ -2,6 +2,17 @@
 
 Tips para utilizar VIM.
 
+Delete
+-------
+
+**dd**: Borra la línea completa.
+
+**Shift+d**: Borra desde el cursor hasta el final de la línea. 
+
+**d+^**: Borra desde el cursor hacia el principio
+
+
+
 Indentar
 ----------
 
